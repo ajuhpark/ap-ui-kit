@@ -4,6 +4,12 @@
     "token-transformer": "^0.0.29"
   },
   "scripts": {
-    "build": "npx token-transformer tokens.json output.json && npx style-dictionary build"
+    "build": "npx token-transformer tokens.json output.json && npx style-dictionary build",
+    "prepare": "husky install",
+    "pre-commit": "lint-staged",
+    "test": "jest --watchAll",
+    "lint": "eslint . --ext .ts,.tsx,.js,.jsx,.json --max-warnings 0",
+    "lint:fix": "eslint . --ext .ts,.tsx,.js,.jsx,.json --fix",
+    "prettier-format": "prettier --config .prettierrc '**/*.{json,js,jsx,ts,tsx,css,scss,md}' --write"
   }
 }
