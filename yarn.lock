@@ -93,10 +93,10 @@
   dependencies:
     "defer-to-connect" "^2.0.0"
 
-"@tokens-studio/sd-transforms@^0.4.4":
-  "integrity" "sha512-AHKl1cvQzpXPcNF6+q83w/tFMftD3WHit6GSSvAQzxfvtoDAAfBmMO5AqEUZp6Dds7WPMPwvp/vw3CoEGP6xyg=="
-  "resolved" "https://registry.npmjs.org/@tokens-studio/sd-transforms/-/sd-transforms-0.4.4.tgz"
-  "version" "0.4.4"
+"@tokens-studio/sd-transforms@^0.5.2":
+  "integrity" "sha512-wKTCBzPlcaqUEnkDoJ6zurj1H1hVfzxIfOCUMA5ArN5p+Z7aq/prjHhZANaNeqLJFasJ/S7RmnNHPKsv6JEVHw=="
+  "resolved" "https://registry.npmjs.org/@tokens-studio/sd-transforms/-/sd-transforms-0.5.2.tgz"
+  "version" "0.5.2"
   dependencies:
     "color2k" "^2.0.1"
     "colorjs.io" "^0.4.3"
@@ -756,9 +756,9 @@
     "tslib" "^2.0.3"
 
 "http-cache-semantics@^4.0.0":
-  "integrity" "sha512-carPklcUh7ROWRK7Cv27RPtdhYhUsela/ue5/jKzjegVvXDqM2ILE9Q2BGn9JZJh1g87cp56su/FgQSzcWS8cQ=="
-  "resolved" "https://registry.npmjs.org/http-cache-semantics/-/http-cache-semantics-4.1.0.tgz"
-  "version" "4.1.0"
+  "integrity" "sha512-er295DKPVsV82j5kw1Gjt+ADA/XYHsajl82cGNQG2eyoPkvgUhX+nDIyelzhIWbbsXP39EHcI6l5tYs2FYqYXQ=="
+  "resolved" "https://registry.npmjs.org/http-cache-semantics/-/http-cache-semantics-4.1.1.tgz"
+  "version" "4.1.1"
 
 "http2-wrapper@^1.0.0-beta.5.2":
   "integrity" "sha512-V+23sDMr12Wnz7iTcDeJr3O6AIxlnvT/bmaAAAP/Xda35C90p9599p0F1eHR/N1KILWSoWVAiOMFjBBXaXSMxg=="
@@ -1288,9 +1288,9 @@
   "version" "2.1.2"
 
 "semver@^7.0.0", "semver@^7.1.2", "semver@^7.3.5":
-  "integrity" "sha512-NB1ctGL5rlHrPJtFDVIVzTyQylMLu9N9VICA6HSFJo8MCGVTMW6gfpicwKmmK/dAjTOrqu5l63JJOpDSrAis3A=="
-  "resolved" "https://registry.npmjs.org/semver/-/semver-7.3.8.tgz"
-  "version" "7.3.8"
+  "integrity" "sha512-1bCSESV6Pv+i21Hvpxp3Dx+pSD8lIPt8uVjRrxAUt/nbswYc+tK6Y2btiULjd4+fnq15PX+nqQDC7Oft7WkwcA=="
+  "resolved" "https://registry.npmjs.org/semver/-/semver-7.5.4.tgz"
+  "version" "7.5.4"
   dependencies:
     "lru-cache" "^6.0.0"
 
