@@ -1,12 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Thu, 20 Jul 2023 18:37:17 GMT
+ * Generated on Thu, 20 Jul 2023 23:25:39 GMT
  */
 
  :root {
 }
 
-.heading_1-Default {
+.heading_1-default {
   font-family: Source Sans Pro;
   font-weight: Regular;
   line-height: 46px;
@@ -16,9 +16,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_1-Light {
+}.heading_1-light {
   font-family: Source Sans Pro;
-  font-weight: Light;
+  font-weight: light;
   line-height: 46px;
   font-size: 38px;
   letter-spacing: 0px;
@@ -26,9 +26,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_1-Semibold {
+}.heading_1-semibold {
   font-family: Source Sans Pro;
-  font-weight: SemiBold;
+  font-weight: semibold;
   line-height: 46px;
   font-size: 38px;
   letter-spacing: 0px;
@@ -36,9 +36,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_1-Bold {
+}.heading_1-bold {
   font-family: Source Sans Pro;
-  font-weight: Bold;
+  font-weight: bold;
   line-height: 46px;
   font-size: 38px;
   letter-spacing: 0px;
@@ -46,7 +46,7 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_2-Default {
+}.heading_2-default {
   font-family: Source Sans Pro;
   font-weight: Regular;
   line-height: 34px;
@@ -56,9 +56,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_2-Light {
+}.heading_2-light {
   font-family: Source Sans Pro;
-  font-weight: Light;
+  font-weight: light;
   line-height: 34px;
   font-size: 27px;
   letter-spacing: 0px;
@@ -66,9 +66,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_2-Semibold {
+}.heading_2-semibold {
   font-family: Source Sans Pro;
-  font-weight: SemiBold;
+  font-weight: semibold;
   line-height: 34px;
   font-size: 27px;
   letter-spacing: 0px;
@@ -76,9 +76,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_2-Bold {
+}.heading_2-bold {
   font-family: Source Sans Pro;
-  font-weight: Bold;
+  font-weight: bold;
   line-height: 34px;
   font-size: 27px;
   letter-spacing: 0px;
@@ -86,7 +86,7 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_3-Default {
+}.heading_3-default {
   font-family: Source Sans Pro;
   font-weight: Regular;
   line-height: 39px;
@@ -96,9 +96,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_3-Light {
+}.heading_3-light {
   font-family: Source Sans Pro;
-  font-weight: Light;
+  font-weight: light;
   line-height: 39px;
   font-size: 23px;
   letter-spacing: 0px;
@@ -106,9 +106,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_3-Semibold {
+}.heading_3-semibold {
   font-family: Source Sans Pro;
-  font-weight: SemiBold;
+  font-weight: semibold;
   line-height: 39px;
   font-size: 23px;
   letter-spacing: 0px;
@@ -116,9 +116,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_3-Bold {
+}.heading_3-bold {
   font-family: Source Sans Pro;
-  font-weight: Bold;
+  font-weight: bold;
   line-height: 39px;
   font-size: 23px;
   letter-spacing: 0px;
@@ -126,7 +126,7 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_4-Default {
+}.heading_4-default {
   font-family: Source Sans Pro;
   font-weight: Regular;
   line-height: 26px;
@@ -136,9 +136,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_4-Light {
+}.heading_4-light {
   font-family: Source Sans Pro;
-  font-weight: Light;
+  font-weight: light;
   line-height: 26px;
   font-size: 21px;
   letter-spacing: 0px;
@@ -146,9 +146,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_4-Semibold {
+}.heading_4-semibold {
   font-family: Source Sans Pro;
-  font-weight: SemiBold;
+  font-weight: semibold;
   line-height: 26px;
   font-size: 21px;
   letter-spacing: 0px;
@@ -156,9 +156,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_4-Bold {
+}.heading_4-bold {
   font-family: Source Sans Pro;
-  font-weight: Bold;
+  font-weight: bold;
   line-height: 26px;
   font-size: 21px;
   letter-spacing: 0px;
@@ -166,7 +166,7 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_5-Default {
+}.heading_5-default {
   font-family: Source Sans Pro;
   font-weight: Regular;
   line-height: 24px;
@@ -176,9 +176,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_5-Light {
+}.heading_5-light {
   font-family: Source Sans Pro;
-  font-weight: Light;
+  font-weight: light;
   line-height: 24px;
   font-size: 17px;
   letter-spacing: 0px;
@@ -186,9 +186,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_5-Semibold {
+}.heading_5-semibold {
   font-family: Source Sans Pro;
-  font-weight: SemiBold;
+  font-weight: semibold;
   line-height: 24px;
   font-size: 17px;
   letter-spacing: 0px;
@@ -196,9 +196,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_5-Bold {
+}.heading_5-bold {
   font-family: Source Sans Pro;
-  font-weight: Bold;
+  font-weight: bold;
   line-height: 24px;
   font-size: 17px;
   letter-spacing: 0px;
@@ -206,7 +206,7 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_6-Default {
+}.heading_6-default {
   font-family: Source Sans Pro;
   font-weight: Regular;
   line-height: 22px;
@@ -216,9 +216,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_6-Light {
+}.heading_6-light {
   font-family: Source Sans Pro;
-  font-weight: Light;
+  font-weight: light;
   line-height: 22px;
   font-size: 15px;
   letter-spacing: 0px;
@@ -226,9 +226,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_6-Semibold {
+}.heading_6-semibold {
   font-family: Source Sans Pro;
-  font-weight: SemiBold;
+  font-weight: semibold;
   line-height: 22px;
   font-size: 15px;
   letter-spacing: 0px;
@@ -236,9 +236,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_6-Bold {
+}.heading_6-bold {
   font-family: Source Sans Pro;
-  font-weight: Bold;
+  font-weight: bold;
   line-height: 22px;
   font-size: 15px;
   letter-spacing: 0px;
@@ -246,7 +246,7 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.heading_all_caps_small-Default {
+}.heading_all_caps_small-default {
   font-family: Source Sans Pro;
   font-weight: Regular;
   line-height: 20px;
@@ -256,9 +256,9 @@
   paragraph-indent: 0px;
   text-case: uppercase;
   text-decoration: none;
-}.heading_all_caps_small-Light {
+}.heading_all_caps_small-light {
   font-family: Source Sans Pro;
-  font-weight: Light;
+  font-weight: light;
   line-height: 20px;
   font-size: 12px;
   letter-spacing: 0px;
@@ -266,9 +266,9 @@
   paragraph-indent: 0px;
   text-case: uppercase;
   text-decoration: none;
-}.heading_all_caps_small-Semibold {
+}.heading_all_caps_small-semibold {
   font-family: Source Sans Pro;
-  font-weight: SemiBold;
+  font-weight: semibold;
   line-height: 20px;
   font-size: 12px;
   letter-spacing: 0px;
@@ -276,9 +276,9 @@
   paragraph-indent: 0px;
   text-case: uppercase;
   text-decoration: none;
-}.heading_all_caps_small-Bold {
+}.heading_all_caps_small-bold {
   font-family: Source Sans Pro;
-  font-weight: Bold;
+  font-weight: bold;
   line-height: 20px;
   font-size: 12px;
   letter-spacing: 0px;
@@ -286,7 +286,7 @@
   paragraph-indent: 0px;
   text-case: uppercase;
   text-decoration: none;
-}.heading_all_caps_default-Default {
+}.heading_all_caps_default-default {
   font-family: Source Sans Pro;
   font-weight: Regular;
   line-height: 21px;
@@ -296,9 +296,9 @@
   paragraph-indent: 0px;
   text-case: uppercase;
   text-decoration: none;
-}.heading_all_caps_default-Light {
+}.heading_all_caps_default-light {
   font-family: Source Sans Pro;
-  font-weight: Light;
+  font-weight: light;
   line-height: 21px;
   font-size: 14px;
   letter-spacing: 0px;
@@ -306,9 +306,9 @@
   paragraph-indent: 0px;
   text-case: uppercase;
   text-decoration: none;
-}.heading_all_caps_default-Semibold {
+}.heading_all_caps_default-semibold {
   font-family: Source Sans Pro;
-  font-weight: SemiBold;
+  font-weight: semibold;
   line-height: 21px;
   font-size: 14px;
   letter-spacing: 0px;
@@ -316,9 +316,9 @@
   paragraph-indent: 0px;
   text-case: uppercase;
   text-decoration: none;
-}.heading_all_caps_default-Bold {
+}.heading_all_caps_default-bold {
   font-family: Source Sans Pro;
-  font-weight: Bold;
+  font-weight: bold;
   line-height: 21px;
   font-size: 14px;
   letter-spacing: 0px;
@@ -326,7 +326,7 @@
   paragraph-indent: 0px;
   text-case: uppercase;
   text-decoration: none;
-}.heading_all_caps_large-Default {
+}.heading_all_caps_large-default {
   font-family: Source Sans Pro;
   font-weight: Regular;
   line-height: 25px;
@@ -336,9 +336,9 @@
   paragraph-indent: 0px;
   text-case: uppercase;
   text-decoration: none;
-}.heading_all_caps_large-Light {
+}.heading_all_caps_large-light {
   font-family: Source Sans Pro;
-  font-weight: Light;
+  font-weight: light;
   line-height: 25px;
   font-size: 16px;
   letter-spacing: 0px;
@@ -346,9 +346,9 @@
   paragraph-indent: 0px;
   text-case: uppercase;
   text-decoration: none;
-}.heading_all_caps_large-Semibold {
+}.heading_all_caps_large-semibold {
   font-family: Source Sans Pro;
-  font-weight: SemiBold;
+  font-weight: semibold;
   line-height: 25px;
   font-size: 16px;
   letter-spacing: 0px;
@@ -356,9 +356,9 @@
   paragraph-indent: 0px;
   text-case: uppercase;
   text-decoration: none;
-}.heading_all_caps_large-Bold {
+}.heading_all_caps_large-bold {
   font-family: Source Sans Pro;
-  font-weight: Bold;
+  font-weight: bold;
   line-height: 25px;
   font-size: 16px;
   letter-spacing: 0px;
@@ -366,7 +366,7 @@
   paragraph-indent: 0px;
   text-case: uppercase;
   text-decoration: none;
-}.body_text_x-small-Default {
+}.body_text_x-small-default {
   font-family: Source Sans Pro;
   font-weight: Regular;
   line-height: 17px;
@@ -376,9 +376,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.body_text_x-small-Light {
+}.body_text_x-small-light {
   font-family: Source Sans Pro;
-  font-weight: Light;
+  font-weight: light;
   line-height: 17px;
   font-size: 12px;
   letter-spacing: 0px;
@@ -386,9 +386,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.body_text_x-small-Semibold {
+}.body_text_x-small-semibold {
   font-family: Source Sans Pro;
-  font-weight: SemiBold;
+  font-weight: semibold;
   line-height: 17px;
   font-size: 12px;
   letter-spacing: 0px;
@@ -396,9 +396,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.body_text_x-small-Bold {
+}.body_text_x-small-bold {
   font-family: Source Sans Pro;
-  font-weight: Bold;
+  font-weight: bold;
   line-height: 17px;
   font-size: 12px;
   letter-spacing: 0px;
@@ -406,7 +406,7 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.body_text_small-Default {
+}.body_text_small-default {
   font-family: Source Sans Pro;
   font-weight: Regular;
   line-height: 21px;
@@ -416,9 +416,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.body_text_small-Light {
+}.body_text_small-light {
   font-family: Source Sans Pro;
-  font-weight: Light;
+  font-weight: light;
   line-height: 21px;
   font-size: 14px;
   letter-spacing: 0px;
@@ -426,9 +426,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.body_text_small-Semibold {
+}.body_text_small-semibold {
   font-family: Source Sans Pro;
-  font-weight: SemiBold;
+  font-weight: semibold;
   line-height: 21px;
   font-size: 14px;
   letter-spacing: 0px;
@@ -436,9 +436,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.body_text_small-Bold {
+}.body_text_small-bold {
   font-family: Source Sans Pro;
-  font-weight: Bold;
+  font-weight: bold;
   line-height: 21px;
   font-size: 14px;
   letter-spacing: 0px;
@@ -446,7 +446,7 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.body_text_default-Default {
+}.body_text_default-default {
   font-family: Source Sans Pro;
   font-weight: Regular;
   line-height: 25px;
@@ -456,9 +456,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.body_text_default-Light {
+}.body_text_default-light {
   font-family: Source Sans Pro;
-  font-weight: Light;
+  font-weight: light;
   line-height: 25px;
   font-size: 16px;
   letter-spacing: 0px;
@@ -466,9 +466,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.body_text_default-Semibold {
+}.body_text_default-semibold {
   font-family: Source Sans Pro;
-  font-weight: SemiBold;
+  font-weight: semibold;
   line-height: 25px;
   font-size: 16px;
   letter-spacing: 0px;
@@ -476,9 +476,9 @@
   paragraph-indent: 0px;
   text-case: none;
   text-decoration: none;
-}.body_text_default-Bold {
+}.body_text_default-bold {
   font-family: Source Sans Pro;
-  font-weight: Bold;
+  font-weight: bold;
   line-height: 25px;
   font-size: 16px;
   letter-spacing: 0px;
