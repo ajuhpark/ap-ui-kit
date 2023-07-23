@@ -179,3 +179,21 @@ Now let's make a change and see how that affects things. Open up `tokens/color/b
 **Huzzah!**
 
 Now go forth and create! Take a look at all the built-in [transforms](https://amzn.github.io/style-dictionary/#/transforms?id=pre-defined-transforms) and [formats](https://amzn.github.io/style-dictionary/#/formats?id=pre-defined-formats).
+
+
+--
+
+Andrew's notes:
+npx token-transformer tokens.json tokens/input.json 
+node build-tokens.js
+ 
+When I build again, I have to replace the light, regular, semibold, bold. 
+
+Light = 300
+Regular = 400
+Semibold = 600
+Bold = 700
+
+Reinstall the style dictionary transform package
+npm i @tokens-studio/sd-transforms
+But don't do this unless I need to because sometimes it won't work well after it updates.

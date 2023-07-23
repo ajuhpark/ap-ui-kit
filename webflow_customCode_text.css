@@ -1,0 +1,163 @@
+
+:root {
+
+  --ap-heading-1-default: 400 38px/46px Source Sans Pro;
+  --ap-heading-1-light: 300 38px/46px Source Sans Pro;
+  --ap-heading-1-semibold: 600 38px/46px Source Sans Pro;
+  --ap-heading-1-bold: 700 38px/46px Source Sans Pro;
+  --ap-heading-2-default: 400 27px/34px Source Sans Pro;
+  --ap-heading-2-light: 300 27px/34px Source Sans Pro;
+  --ap-heading-2-semibold: 600 27px/34px Source Sans Pro;
+  --ap-heading-2-bold: 700 27px/34px Source Sans Pro;
+  --ap-heading-3-default: 400 23px/39px Source Sans Pro;
+  --ap-heading-3-light: 300 23px/39px Source Sans Pro;
+  --ap-heading-3-semibold: 600 23px/39px Source Sans Pro;
+  --ap-heading-3-bold: 700 23px/39px Source Sans Pro;
+  --ap-heading-4-default: 400 21px/26px Source Sans Pro;
+  --ap-heading-4-light: 300 21px/26px Source Sans Pro;
+  --ap-heading-4-semibold: 600 21px/26px Source Sans Pro;
+  --ap-heading-4-bold: 700 21px/26px Source Sans Pro;
+  --ap-heading-5-default: 400 17px/24px Source Sans Pro;
+  --ap-heading-5-light: 300 17px/24px Source Sans Pro;
+  --ap-heading-5-semibold: 600 17px/24px Source Sans Pro;
+  --ap-heading-5-bold: 700 17px/24px Source Sans Pro;
+  --ap-heading-6-default: 400 15px/22px Source Sans Pro;
+  --ap-heading-6-light: 300 15px/22px Source Sans Pro;
+  --ap-heading-6-semibold: 600 15px/22px Source Sans Pro;
+  --ap-heading-6-bold: 700 15px/22px Source Sans Pro;
+
+  --ap-body-text-x-small-default: 400 12px/17px Source Sans Pro;
+  --ap-body-text-x-small-light: 300 12px/17px Source Sans Pro;
+  --ap-body-text-x-small-semibold: 600 12px/17px Source Sans Pro;
+  --ap-body-text-x-small-bold: 700 12px/17px Source Sans Pro;
+  --ap-body-text-small-default: 400 14px/21px Source Sans Pro;
+  --ap-body-text-small-light: 300 14px/21px Source Sans Pro;
+  --ap-body-text-small-semibold: 600 14px/21px Source Sans Pro;
+  --ap-body-text-small-bold: 700 14px/21px Source Sans Pro;
+  --ap-body-text-default-default: 400 16px/25px Source Sans Pro;
+  --ap-body-text-default-light: 300 16px/25px Source Sans Pro;
+  --ap-body-text-default-semibold: 600 16px/25px Source Sans Pro;
+  --ap-body-text-default-bold: 700 16px/25px Source Sans Pro;
+ 
+
+}
+
+.heading_1-default {
+  font: var(--ap-heading-1-default);
+}
+.heading_1-light {  
+	font: var(--ap-heading-1-light);
+}
+.heading_1-semibold {
+	font: var(--ap-heading-1-semibold);
+}
+.heading_1-bold {
+	font: var(--ap-heading-1-bold);
+}
+
+.heading_2-default {
+    font: var(--ap-heading-2-default);
+}
+.heading_2-light {  
+  font: var(--ap-heading-2-light);
+}
+.heading_2-semibold {
+  font: var(--ap-heading-2-semibold);
+}
+.heading_2-bold {
+  font: var(--ap-heading-2-bold);
+}
+
+.heading_3-default {
+    font: var(--ap-heading-3-default);
+}
+.heading_3-light {  
+    font: var(--ap-heading-3-light);
+}
+.heading_3-semibold {
+    font: var(--ap-heading-3-semibold);
+}
+.heading_3-bold {
+    font: var(--ap-heading-3-bold);
+}
+
+.heading_4-default {
+  font: var(--ap-heading-4-default);
+}
+.heading_4-light {  
+    font: var(--ap-heading-4-light);
+}
+.heading_4-semibold {
+    font: var(--ap-heading-4-semibold);
+}
+.heading_4-bold {
+    font: var(--ap-heading-4-bold);
+}
+
+.heading_5-default {
+  font: var(--ap-heading-5-default);
+}
+.heading_5-light {  
+    font: var(--ap-heading-5-light);
+}
+.heading_5-semibold {
+    font: var(--ap-heading-5-semibold);
+}
+.heading_5-bold {
+    font: var(--ap-heading-5-bold);
+}
+
+.heading_6-default {
+  font: var(--ap-heading-6-default);
+}
+.heading_6-light {  
+    font: var(--ap-heading-6-light);
+}
+.heading_6-semibold {
+    font: var(--ap-heading-6-semibold);
+}
+.heading_6-bold {
+    font: var(--ap-heading-6-bold);
+}
+
+
+.body_text_x-small-default {
+  font: var(--ap-body-text-x-small-default);
+}
+.body_text_x-small-light {
+  font: var(--ap-body-text-x-small-light);
+}
+.body_text_x-small-semibold {
+  font: var(--ap-body-text-x-small-semibold);
+}
+.body_text_x-small-bold {
+  font: var(--ap-body-text-x-small-bold);
+}
+
+.body_text_small-default {
+  font: var(--ap-body-text-small-default);
+}
+.body_text_small-light {
+  font: var(--ap-body-text-small-light);
+}
+.body_text_small-semibold {
+  font: var(--ap-body-text-small-semibold);
+}
+.body_text_small-bold {
+  font: var(--ap-body-text-small-bold);
+}
+
+.body_text_default-default {
+  font: var(--ap-body-text-default-default);
+}
+.body_text_default-light {
+  font: var(--ap-body-text-default-light);
+}
+.body_text_default-semibold {
+  font: var(--ap-body-text-default-semibold);
+}
+.body_text_default-bold {
+  font: var(--ap-body-text-default-bold);
+}
+
+

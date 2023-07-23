@@ -32,7 +32,7 @@ const sd = StyleDictionary.extend({
         'name/cti/kebab',
       ],
       buildPath: 'build/css/',
-      prefix: "webmgr-",
+      prefix: "ap-",
       files: [
         {
           destination: 'variables.css',
